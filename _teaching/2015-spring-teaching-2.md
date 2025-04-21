@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Department of Mathematics, University of Benin"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-2
+venue: "University of Benin"
+date: 2016-01-01
+location: "Benin, Nigeria"
+excerpt: |
+  <ul style="list-style-type: disc; margin-left: 1em;">
+    <li><strong>Year 2</strong> &mdash; <strong>Tutor</strong>, <em>Elementary algebra and analysis</em></li>
+  </ul>
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

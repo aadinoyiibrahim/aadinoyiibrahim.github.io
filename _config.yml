@@ -13,9 +13,9 @@ title: "Abdullahi A. Ibrahim, Ph.D."
 title_separator: "-"
 name: &name "Your Name"
 description: &description "personal description"
-url: https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url: https://aadinoyiibrahim.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "academicpages/academicpages.github.io"
+repository: "aadinoyiibrahim/aadinoyiibrahim.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -218,6 +218,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -226,12 +227,13 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: false
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
