@@ -84,6 +84,8 @@
     <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
     <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% elsif post.codeurl %}
+    <p><a href="{{ post.codeurl }}" target="_blank">View Code <i class="fa fa-github" aria-hidden="true"></i></a></p>
     {% endif %}
 
   </article>
