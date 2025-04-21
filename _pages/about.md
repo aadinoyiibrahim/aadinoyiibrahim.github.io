@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed a CS PhD with the Physics for Inference and Optimization group led by Prof. Caterina De Bacco at the Max Planck Institute for Intelligent Systems. My work developed novel optimal‑transport algorithms for sustainable routing optimization.
-Beyond the classroom, I also volunteer to the scholarly community as an Associate Editor of the Journal of Open Research Software (JORS) and as a reviewer for some applied‑science journals.
+I completed my PhD in Computer Science with the Physics for Inference and Optimization group led by Prof. Caterina De Bacco at the Max Planck Institute for Intelligent Systems. My work spans interdisciplinary projects—from machine‑learning–driven time‑series prediction and community detection in complex networks to flow optimization in multimodal transport systems. My research interests lie at the intersection of data‑driven modeling, dynamical and nonlinear systems, optimization algorithms, and machine learning.
+
+Outside of my own research, I serve as an Associate Editor for the Journal of Open Research Software (JORS) and peer‑reviewer for several applied‑science journals. I mentor early‑career scientists through Python and data‑science workshops (including TReND in Africa) and co‑organize scientific workshops. I also contribute to open‑source scientific software.
 
 <!-- -------------- two‑column section -------------- -->
 <div style="display:flex; flex-wrap:wrap; gap:2rem; margin-top:2rem;">
