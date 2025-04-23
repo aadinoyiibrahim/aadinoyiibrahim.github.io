@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Abdullahi A. Ibrahim, Ph.D."
+# title: "🏠 Abdullahi A. Ibrahim, Ph.D."
+title: "<i class='fas fa-home'></i> "
 title_separator: "-"
 name: &name "Your Name"
 description: &description "personal description"
@@ -45,7 +46,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github: "aadinoyiibrahim"
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -61,7 +62,7 @@ author:
   lastfm: # Username
   linkedin: # Username
   mastodon: # URL
-  medium: # URL
+  medium: # URL abdullahiadinoyi857
   pinterest: # Username
   soundcloud: # Username
   steam: # Username

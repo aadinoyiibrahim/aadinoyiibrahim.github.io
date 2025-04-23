@@ -1,18 +1,19 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name: "Name Name"
+  uri: "https://aadinoyiibrahim.github.io"
+  email: "abdullahiadinoyi857@gmail.com"
+  bio: "Postdoc researcher"
+  avatar: "abdul1.png"
+  # medium: "https://medium.com/@abdullahiadinoyi857"
+  github: "aadinoyiibrahim"
+  linkedin: "abdullahi-ibrahim"
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  name: "Name2 Name2"
+  email: "name2@name2.com"
+  bio: "I ordered what?"
+  avatar: "bio-photo.jpg"
+  twitter: "name2"
+  google_plus: "Name"
