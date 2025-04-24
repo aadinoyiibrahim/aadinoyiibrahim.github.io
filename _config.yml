@@ -10,7 +10,7 @@
 locale: "en-US"
 site_theme: "default"
 # title: "🏠 Abdullahi A. Ibrahim, Ph.D."
-title: "<i class='fas fa-home'></i> "
+title: "<i class='fas fa-home'></i> Abdullahi A. Ibrahim, Ph.D."
 title_separator: "-"
 name: &name "Your Name"
 description: &description "personal description"
@@ -33,25 +33,25 @@ author:
   email: "abdullahiadinoyi857@gmail.com"
 
   # Academic websites
-  arxiv: "https://arxiv.org/search/physics?searchtype=author&query=Ibrahim,+A+A" # URL - Update with the correct link to your profile
+  # arxiv: "https://arxiv.org/search/physics?searchtype=author&query=Ibrahim,+A+A" # URL - Update with the correct link to your profile
   googlescholar: "https://scholar.google.com/citations?user=2r75Y_UAAAAJ&hl=en&oi=sra"
-  impactstory: # URL
+  # impactstory: # URL
   orcid: "http://orcid.org/0000-0003-0704-4092"
-  semantic: # URL
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # semantic: # URL
+  # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate: "https://www.researchgate.net/profile/Abdullahi_Ibrahim9?ev=hdr_xprf" # URL
-  scopus: "https://www.scopus.com/authid/detail.uri?authorId=57218898508"# URL
+  # scopus: "https://www.scopus.com/authid/detail.uri?authorId=57218898508"# URL
 
   # Repositories and software development
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
-  dribbble: # Username
+  # dribbble: # Username
   github: "aadinoyiibrahim"
-  kaggle: # Username
-  stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+  # kaggle: # Username
+  # stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky: "bsky.app" # Replace this with you Bluesky username
+  # bluesky: "bsky.app" # Replace this with you Bluesky username
   facebook: # Username
   flickr: # Username
   foursquare: # Username
@@ -60,9 +60,9 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: # Username
+  linkedin: "abdullahi-ibrahim" # Username
   mastodon: # URL
-  medium: # URL abdullahiadinoyi857
+  medium: "https://medium.com/@abdullahiadinoyi857" # URL
   pinterest: # Username
   soundcloud: # Username
   steam: # Username
@@ -219,7 +219,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  
 
 # These settings control how pages and collections are included in the site
 defaults:

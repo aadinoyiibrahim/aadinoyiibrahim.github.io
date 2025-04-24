@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I completed my PhD in Computer Science with the Physics for Inference and Optimization group led by Prof. Caterina De Bacco at the Max Planck Institute for Intelligent Systems. My work spans interdisciplinary projects—from machine‑learning–driven time‑series prediction and community detection in complex networks to flow optimization in multimodal transport systems. My research interests lie at the intersection of data‑driven modeling, dynamical and nonlinear systems, optimization algorithms, and machine learning.
+I completed my PhD in Computer Science with the Physics for Inference and Optimization group, led by Prof. Caterina De Bacco at the Max Planck Institute for Intelligent Systems. I was a visiting researcher at the GFZ Helmholtz Centre Potsdam.
 
-Outside of my own research, I serve as an Associate Editor for the Journal of Open Research Software (JORS) and peer‑reviewer for several applied‑science journals. I mentor early‑career scientists through Python and data‑science workshops (including TReND in Africa) and co‑organize scientific workshops. I also contribute to open‑source scientific software.
+My research bridges multiple disciplines—ranging from machine-learning–driven time-series forecasting and community detection in complex networks to optimal-transport models for multimodal traffic flow. I specialise in data-driven modeling of dynamical and nonlinear systems, developing efficient optimization algorithms and scalable machine-learning frameworks that translate theoretical insights into real-world applications.
+
+Beyond my research, I serve as an Associate Editor for the Journal of Open Research Software (JORS) and regularly peer-review for research and software journals. I am also an active open-source contributor and publishing reproducible code to foster transparency and collaboration across the scientific community.
 
 <!-- -------------- two‑column section -------------- -->
 <div style="display:flex; flex-wrap:wrap; gap:2rem; margin-top:2rem;">
