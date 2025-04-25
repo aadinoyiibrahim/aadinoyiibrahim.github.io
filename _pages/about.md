@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I completed my PhD in Computer Science with the Physics for Inference and Optimization group, led by Prof. Caterina De Bacco at the Max Planck Institute for Intelligent Systems. I was a visiting researcher at the GFZ Helmholtz Centre Potsdam.
+I completed my CS PhD with the *Physics for Inference and Optimization group*, led by <a href="https://www.cdebacco.com">Caterina De Bacco</a>  at the Max Planck Institute for Intelligent Systems. I was a visiting researcher at the GFZ Helmholtz Centre Potsdam.
 
-My research bridges multiple disciplines—ranging from machine-learning–driven time-series forecasting and community detection in complex networks to optimal-transport models for multimodal traffic flow. I specialise in data-driven modeling of dynamical and nonlinear systems, developing efficient optimization algorithms and scalable machine-learning frameworks that translate theoretical insights into real-world applications.
+<!-- My research bridges multiple disciplines—ranging from machine-learning–driven time-series forecasting and community detection in complex networks to optimal-transport models for multimodal traffic flow. I am in data-driven modeling of dynamical and nonlinear systems, developing efficient optimization algorithms and scalable machine-learning frameworks that translate theoretical insights into real-world applications. -->
 
-Beyond my research, I serve as an Associate Editor for the Journal of Open Research Software (JORS) and regularly peer-review for research and software journals. I am also an active open-source contributor and publishing reproducible code to foster transparency and collaboration across the scientific community.
+I am currently an Associate Editor for the <a href="https://openresearchsoftware.metajnl.com/about/editorialteam">Journal of Open Research Software</a> and reviewer for some scientific journals. I am also an active open-source contributor and publishing reproducible code.
 
 <!-- -------------- two‑column section -------------- -->
 <div style="display:flex; flex-wrap:wrap; gap:2rem; margin-top:2rem;">
@@ -24,7 +24,7 @@ Beyond my research, I serve as an Associate Editor for the Journal of Open Resea
          | where_exp: "p", "p.categories contains 'news'"
          | sort: "date"
          | reverse
-         | slice: 0, 3 %}
+         | slice: 0, 4 %}
       {% for post in news %}
         <li style="margin-bottom:0.75rem;">
           <a href="{{ post.url | relative_url }}" style="font-weight:500;">
@@ -42,10 +42,10 @@ Beyond my research, I serve as an Associate Editor for the Journal of Open Resea
     <h3>Education</h3>
     <ul style="margin-left:0;">
       <li><strong>Ph.D. Computer Science</strong><br>
-          Max Planck Institute &amp; Univ. Tübingen, 2024
+          MPI Intelligent Systems &amp; Uni-Tübingen, 2024
       </li>
       <li><strong>M.Sc. Math &amp; Data Science</strong><br>
-          AIMS Senegal, 2019
+          AIMS-Senegal, 2019
       </li>
       <li><strong>B.Sc. Mathematics</strong><br>
           Ekiti State University, 2015
