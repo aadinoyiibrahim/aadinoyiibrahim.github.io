@@ -1,69 +1,82 @@
 ---
 layout: archive
-title: "CV"
+title: "Featured Projects"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<div class="projects-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 25px; margin: 30px 0;">
 
-Education
-======
-* Ph.D in Computer Science, Max Planck Institute &amp; University of Tuebingen, 2024
-* M.Sc. in Math &amp; Data Science, African Institute for Mathematical Sciences, 2019
-* B.Sc. in Mathematics, Ekiti State University, 2015
+  <!-- 1. Income Pipeline -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 12px; overflow: hidden; background: #09fcf4; box-shadow: 0 4px 15px rgba(0,0,0,0.06); transition: all 0.3s;">
+    <div style="padding: 20px;">
+      <h3 style="margin:0 0 10px; color:#2c3e50;">Income & Expenses Forecasting Pipeline</h3>
+      <img src="../images/income_vs_expenses.png" alt="Income Forecasting" style="width:100%; height:180px; object-fit:cover;">
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Python</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">XGBoost</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">SHAP</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">FastAPI</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Docker</span>
+      <a href="https://github.com/aadinoyiibrahim/income" target="_blank" style="color:#0066cc; font-weight:600;">GitHub →</a>
+    </div>
+  </div>
 
-Work experience (selected 3)
-======
-* 2020 - 2024: PhD student, Max Planck Institute for Intelligent Systems, Tuebingen 
+  <!-- 2. Brain Tumor -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 12px; overflow: hidden; background: #09fcf4; box-shadow: 0 4px 15px rgba(0,0,0,0.06); transition: all 0.3s;">
+    <div style="padding: 20px;">
+      <h3 style="margin:0 0 10px; color:#2c3e50;">Brain Tumor Classification </h3>
+      <img src="../images/metric.png" alt="Brain Tumor App" style="width:100%; height:180px; object-fit:cover;">
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">PyTorch</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">DenseNet121</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Grad-CAM</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Streamlit</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Docker</span>
+      <a href="https://github.com/aadinoyiibrahim/brain-tumor-classification" target="_blank" style="color:#0066cc; font-weight:600;">GitHub →</a>
+    </div>
+  </div>
 
-  <!-- * GitHub University 
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users -->
+  <!-- 3. MultiOT -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 4px 15px rgba(0,0,0,0.06); transition: all 0.3s;">
+    <div style="padding: 20px;">
+      <h3 style="margin:0 0 10px; color:#2c3e50;">MultiOT</h3>
+      <img src="../images/fig3.png" alt="MultiOT" style="width:100%; height:180px; object-fit:cover;">
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Python</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">NetworkX</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">SciPy</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Flows</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Optimization</span>
+      <a href="https://github.com/aadinoyiibrahim/MultiOT" target="_blank" style="color:#0066cc; font-weight:600;">GitHub →</a>
+    </div>
+  </div>
 
-* 2019 - 2020: Lecturer, Baze University, Nigeria
+  <!-- 4. VECOTRA -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 4px 15px rgba(0,0,0,0.06); transition: all 0.3s;">
+    <div style="padding: 20px;">
+      <h3 style="margin:0 0 10px; color:#2c3e50;">VECOTRA</h3>
+       <img src="../images/vectora.png" alt="VECOTRA" style="width:100%; height:180px; object-fit:cover;">
+      <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">NetworkX</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">SciPy</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Flows</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Python</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Constrained dynamics</span>
+      <a href="https://github.com/aadinoyiibrahim/VECOTRA" target="_blank" style="color:#0066cc; font-weight:600;">GitHub →</a>
+    </div>
+  </div>
 
-  <!-- * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+  <!-- 5. ORC-Nextrout -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 4px 15px rgba(0,0,0,0.06); transition: all 0.3s;">
+    <div style="padding: 20px;">
+      <h3 style="margin:0 0 10px; color:#2c3e50;">ORC-Nextrout</h3>
+       <img src="../images/commdet.png" alt="ORC-Nextrout" style="width:100%; height:180px; object-fit:cover;">
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Python</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">NetworkX</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">SciPy</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Community detection</span>
+        <span style="background:#2c3e50; padding:3px 10px; border-radius:20px; font-size:0.85em; margin-right:5px;">Optimal transport</span>
+      <a href="https://github.com/aadinoyiibrahim/ORC-Nextrout" target="_blank" style="color:#0066cc; font-weight:600;">GitHub →</a>
+    </div>
+  </div>
 
-* 2018: Data Science Intern, Development Bank of Rwanda, Kigali, Rwanda
-  
-  <!-- * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
-  
-Skills
-======
-* Programming: Python, PyTorch, SQL, Git, JavaScript, R
-* Data Science: Machine Learning, Optimal Transport, Network Analysis
-
-<!-- * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+</div>
